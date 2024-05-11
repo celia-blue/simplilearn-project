@@ -1,2 +1,2 @@
 # simplilearn-project
-The machine learning algorithm is used to classify the diagnose a person, if they are having diabetes or not.
+A machine learning algorithm is employed to classify individuals as either having diabetes or not, based on their characteristics. However, the dataset used for training is imbalanced, meaning that it contains a significantly larger number of instances of one class (e.g., non-diabetic individuals) compared to the other (e.g., diabetic individuals). To address this issue, various techniques are applied to balance the dataset, ensuring that the algorithm is trained on a more representative and unbiased sample, leading to improved accuracy and reliability in diagnosing diabetes.
